@@ -1,13 +1,13 @@
-import React, { Component } from 'react'
+import React, { Component } from 'react';
 
-import ExampleComponent from 'react-proton-components'
+import { Button } from 'react-proton-components';
 
 export default class App extends Component {
-  render () {
-    return (
-      <div>
-        <ExampleComponent text='Modern React component module' />
-      </div>
-    )
-  }
+	render() {
+		return (
+			<div>
+				<Button />
+			</div>
+		);
+	}
 }
