@@ -1,0 +1,29 @@
+.btn {
+	-webkit-text-decoration: none;
+	text-decoration: none;
+	margin-right: 15px !important;
+	display: inline-block;
+	position: relative;
+	margin-right: 10px;
+	border: solid black 2px;
+	color: black;
+	fill: black;
+	background: white;
+	background-color: white;
+	box-shadow: 4px 4px 0 black;
+	background-color: #cbc3ff;
+	-webkit-transition: top 0.2s ease;
+	transition: top 0.2s ease;
+	position: relative;
+	top: 0;
+	vertical-align: middle;
+	cursor: pointer;
+	text-transform: uppercase;
+	font-family: inherit;
+	font-weight: bold;
+	margin: 0 4px;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	padding-left: 10px;
+	padding-right: 10px;
+}

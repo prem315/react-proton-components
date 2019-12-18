@@ -1,6 +1,7 @@
 # react-proton-components
 
-> render ui components
+> render ui components.
+> this component library is not ready. It is still in a development. 
 
 [![NPM](https://img.shields.io/npm/v/react-proton-components.svg)](https://www.npmjs.com/package/react-proton-components) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
